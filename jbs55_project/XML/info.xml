@@ -1,0 +1,42 @@
+<Data>
+    <Accomplishments>
+        <Federated>
+            <info>My work experience with Federated Investors has been my first step into the professional work environment and I excelled. I designed SQL code to manipulate or find data correctly, and created shell/batch scripts to transfer files around on a server while using a scheduler to coordinate when the scripts were going to be run. I completed all of the requests on time and within the business parameters. I gained valuable team experience when I worked with other people and communicated effectively to find a solution for the project we were all working on.</info>
+            <picture>../Images/Federated.jpg</picture>
+            <style>display:inline-block; width:400px;height:100px;padding-bottom:10px;</style>
+            <maps>Federated+Investors</maps>
+        </Federated>
+        <MSA>
+            <info>I have recently accepted a position as an Embedded Systems Software Intern with Mine Safety Appliances for Summer 2016. I am extremely excited to see what is in store for me and am glad for the opportunity to put my skills acquired in the classroom to use for a product that is meant to help and keep people safe. I cannot wait to start!</info>
+            <picture>../Images/MSA.jpg</picture>
+            <style>display:inline-block; width:375px; height:179px;</style>
+            <maps>Mine+Safety+Appliances</maps>
+        </MSA>
+        <Scholarships>
+            <info>I have received the Dean's List Honor three times since I have been attending the University of Pittsburgh. I have also applied for and received multiple scholarships from the Polish American Congress. I have twice received the Gorecki scholarship for my great academics and constant support of my polish heritage.</info>
+            <picture>../Images/Polish.jpg</picture>
+            <style>display:inline-block; width:150px; height:150px;</style>
+            <maps>University+of+Pittsburgh</maps>
+        </Scholarships>
+    </Accomplishments>
+    <OrgsAndActs>
+        <Band>
+            <info>I play trumpet in the University of Pittsburgh Marching and Concert Bands. Band is probably where my best college experiences have occurred and I do not regret ever doing it. It is a huge time commitment when we practice sometimes four times per week and then spend most of Saturday at Heinz Field. Band has taught me to manage my time properly so I can keep my grades up, how to put in the most amount of effort when there is not much time to rehearse, and also I made some great friends along the way. If there was one organization that I would encourage everyone to do if they could it would be a college marching band.</info>
+            <picture>../Images/Band.jpg</picture>
+            <style>display:inline-block; width:384px; height:216px;</style>
+            <maps>University+of+Pittsburgh</maps>
+        </Band>
+        <MKY>
+            <info>I am currently an active brother in Mu Kappa Upsilon, a Band Service Fraternity. I have been a brother since December 2014, and enjoy the important service we bring to the band. We help the band in any way the director wants us to (such as helping to organize the band room) but mostly we will prepare for practices and get everything set up. We strive to be great musicians and marchers during the marching season. I am proud to be a part of such a good organization and everything that we do.</info>
+            <picture>../Images/MKY.jpg</picture>
+            <style>display:inline-block; width:384px; height:216px;</style>
+            <maps>University+of+Pittsburgh</maps>
+        </MKY>
+        <Kings>
+            <info>I participate in a jazz praise band called The King's Ambassadors. I have been playing with them for about 3 years now, and we volunteer to play jazz praise music at churches in the Pittsburgh area. We play on Sunday's about once every two to three months. Every time I play it reminds me why I joined the band in the first place. After we are done playing everyone comes up and thanks us and lets us know how wonderful we sounded. This is probably one of the best feelings for a musician and I enjoy it every time that we play together. This is a great group for me to keep playing my trumpet even after I have graduated and will not be in the bands anymore.</info>
+            <picture>../Images/Kings.jpg</picture>
+            <style>display:inline-block; width:332px; height:187px;</style>
+            <maps>Pittsburgh+PA</maps>
+        </Kings>
+    </OrgsAndActs>
+</Data>
