@@ -1,0 +1,37 @@
+What did I Change/Enhance?
+
+I didn't do much with the first page or the issues page sicne I didn't feel like I could
+change them much with JS/JQuery. I instead wanted to AJAX in the infomation from an external file
+and use buttons to move away from a static page and make it more dynamic. I also wanted to try 
+to use any API, and google maps didn't seem to bad so it is what I went with. It turned out
+to be pretty easy to use and pretty cool to see what I could do with it!
+
+A third part?
+
+I don't really have a great idea of what I would do for a third part, unless we learned another programming
+language for web development and used that. Or, possibly get into how Bootstrap works and converting most 
+sites into what is being used today (since I believe Bootstrap falls under that category). I'm not saying
+Bootstrap should be taught since I do not understand fully what it is or how it works, but I think
+with the few extra classes we had it would have been good to go over stuff like "This is the base programming
+you want to use, but out in the real world you can use these things to make your life easier and here is how to
+use them". And you can show us maybe some external things for us to be familiar with that could help getting a web
+development job.
+
+What did I learn between part 1 and 2?
+
+Obviously we learned Javascript and JQuery between them, but looking back at my legacy code there was just a lot of mistakes
+I made that weren't necessarily going to crash the site, but were semantically wrong from learning better practices. I also
+learned a few interesting things about API's and such along the way, but understand web development a lot better now.
+
+Like about Project? Improve?
+
+I liked how it was quite open ended, although that can be a blessing and a curse. It gave
+people the creative ability to do whatever they wanted but some people aren't extremely creative
+and so at times I was like "I really don't know how to make this look better" and "What can I add
+here to improve the website". This might come with more practice, but I found myself staring at my website
+and wondering what to improve as much as I did coding it! I think posting the rubric that you use and using more bullet
+points to express what you want rather than in paragraph form would be ideal. I think also more "checkpoints" throughout the
+semester would be better (with the projects and exercises actually) so that people don't push it off compeltely.
+
+
+Thanks for a great semester Matt!
